@@ -1,3 +1,3 @@
 # lecture6-demo
 
-fobar 2
+foabar 2
